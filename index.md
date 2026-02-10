@@ -25,7 +25,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
 
 ---
 ## Framework
-![Framework](/static/image/figure1.png)
+![Framework](/static/image/Fig1.png)
 
 <section class="hero teaser" style="padding: 0;">
   <div class="container is-max-desktop" style="padding: 0;">
