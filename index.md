@@ -11,7 +11,17 @@ paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 ---
 
+<section class="hero teaser" style="padding: 0;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser1" autoplay muted loop playsinline height="100%">
+        <source src="static/image/thermoact_video.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</section>
 <!-- Using HTML to center the abstract -->
+
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
@@ -23,15 +33,6 @@ In recent human-robot collaboration environments, there is a growing focus on in
 
 ---
 
-<section class="hero teaser" style="padding: 0;">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <video id="teaser1" autoplay muted loop playsinline height="100%">
-        <source src="static/image/thermoact_video.mp4" type="video/mp4">
-      </video>
-    </div>
-  </div>
-</section>
 
 ## Framework
 ![Framework](/static/image/Fig1.png)
