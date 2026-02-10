@@ -53,7 +53,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
         loop 
         playsinline 
         style="width: 100%; height: auto; display: block; object-fit: cover;">
-        <source src="static/image/testvideo2.mp4" type="video/mp4">
+        <source src="static/image/themoact_video2.mp4" type="video/mp4">
       </video>
     </div>
   </div>
