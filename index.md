@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: "ThermoAct: Thermal-Aware Vision-Language-Action Models \\for Robotic Perception and Decision-Making"
+title: "ThermoAct: Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making"
 authors:
   - Young-Chae Son, Dae Kwan Ko, Yoon Ji Choi and Soo-Chul Lim*
 affiliations:
