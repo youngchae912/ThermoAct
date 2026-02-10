@@ -43,15 +43,31 @@ In recent human-robot collaboration environments, there is a growing focus on in
   </div>
 </section>
 
-<section class="hero teaser" style="padding: 0;">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <video id="teaser2" autoplay muted loop playsinline height="100%">
-        <source src="static/image/thermoact_video2.mp4" type="video/mp4">
-      </video>
+<p class="has-text-centered">
+  Task2: Give me a cold Coke
+</p>
+<br>
+
+<div class="box">
+  <div class="columns is-centered">
+    <div class="column">
+      <div class="content">
+        <h3 class="title is-5 has-text-centered">Task 2: w/ cold coke </h3>
+        <video id="video1" autoplay muted loop playsinline width="100%">
+          <source src="static/image/task2.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+    <div class="column">
+      <div class="content">
+        <h3 class="title is-5 has-text-centered">Task 2-2: w/o cold coke </h3>
+        <video id="video2" autoplay muted loop playsinline width="100%">
+          <source src="static/image/task2_2.mp4" type="video/mp4">
+        </video>
+      </div>
     </div>
   </div>
-</section>
+</div>
 
 ## Citation
 ```
