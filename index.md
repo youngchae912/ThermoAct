@@ -11,9 +11,10 @@ paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 ---
 
-<div class="is-size-6 has-text-centered" style="margin-top: -5rem; margin-bottom: 0.5rem; color: #555;">
+<div class="is-size-6 has-text-centered" style="margin-top: -2.5rem; margin-bottom: 0.5rem; color: #555;">
   * Corresponding Author
 </div>
+
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body" style="padding-top: 0; padding-bottom: 2rem;"> 
@@ -89,7 +90,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke (w/ cold coke)</h3>
-        <video id="video1" controls loop playsinline width="100%">
+        <video id="video1" controls muted loop playsinline width="100%">
           <source src="static/image/task2.mp4" type="video/mp4">
         </video>
       </div>
@@ -97,7 +98,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke (w/o cold coke)</h3>
-        <video id="video2" controls loop playsinline width="100%">
+        <video id="video2" controls muted loop playsinline width="100%">
           <source src="static/image/task2_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -110,7 +111,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (teabag)</h3>
-        <video id="video3" controls loop playsinline width="100%">
+        <video id="video3" controls muted loop playsinline width="100%">
           <source src="static/image/task3.mp4" type="video/mp4">
         </video>
       </div>
@@ -118,7 +119,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (lemon)</h3>
-        <video id="video4" controls loop playsinline width="100%">
+        <video id="video4" controls muted loop playsinline width="100%">
           <source src="static/image/task3_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -131,7 +132,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
-        <video id="video5" controls loop playsinline width="100%">
+        <video id="video5" controls muted loop playsinline width="100%">
           <source src="static/image/task4.mp4" type="video/mp4">
         </video>
       </div>
@@ -139,7 +140,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
-        <video id="video6" controls loop playsinline width="100%">
+        <video id="video6" controls muted loop playsinline width="100%">
           <source src="static/image/task4_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -152,7 +153,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
-        <video id="video7" controls loop playsinline width="100%">
+        <video id="video7" controls muted loop playsinline width="100%">
           <source src="static/image/task5.mp4" type="video/mp4">
         </video>
       </div>
@@ -160,7 +161,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
-        <video id="video8" controls loop playsinline width="100%">
+        <video id="video8" controls muted loop playsinline width="100%">
           <source src="static/image/task5_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -171,15 +172,3 @@ video: https://www.youtube.com/results?search_query=turing+machine
 <br>
 
 ## Citation
-```
-@article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
-}
-```
-
