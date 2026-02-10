@@ -19,7 +19,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
           <source src="static/image/thermoact_video.mp4" type="video/mp4">
         </video>
       </div>
-      <h2 class="subtitle has-text-centered mt-3">
+      <h2 class="subtitle has-text-centered mt-3 is-size-6" style="color: #AE3A5D;">
         <strong>Temperature-Aware Framework for Robotic Perception and Decision-Making</strong>
       </h2>
     </div>
