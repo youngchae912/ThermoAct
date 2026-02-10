@@ -14,7 +14,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body" style="padding-bottom: 3rem;"> 
-      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
+      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #D9A7B6; background-color: #EAC0CD; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
         <video id="teaser1" autoplay muted loop playsinline width="100%" style="display: block;">
           <source src="static/image/thermoact_video.mp4" type="video/mp4">
         </video>
@@ -76,7 +76,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
 
 <h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
 
-<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
+<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
@@ -97,7 +97,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </div>
 </div>
 
-<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
+<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
@@ -118,7 +118,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </div>
 </div>
 
-<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
+<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
@@ -139,7 +139,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </div>
 </div>
 
-<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
+<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
