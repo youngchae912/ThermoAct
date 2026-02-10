@@ -52,11 +52,11 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
 </p>
 <br>
 
-<div class="box">
+<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke(w/ cold coke)</h3>
+        <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke (w/ cold coke)</h3>
         <video id="video1" autoplay muted loop playsinline width="100%">
           <source src="static/image/task2.mp4" type="video/mp4">
         </video>
@@ -64,7 +64,7 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
     </div>
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke(w/ cold coke)</h3>
+        <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke (w/o cold coke)</h3>
         <video id="video2" autoplay muted loop playsinline width="100%">
           <source src="static/image/task2_2.mp4" type="video/mp4">
         </video>
@@ -73,11 +73,11 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
   </div>
 </div>
 
-<div class="box">
+<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 3:Select the appropriate cup for each object(teabag)A</h3>
+        <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (teabag)</h3>
         <video id="video3" autoplay muted loop playsinline width="100%">
           <source src="static/image/task3.mp4" type="video/mp4">
         </video>
@@ -85,7 +85,7 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
     </div>
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 3:Select the appropriate cup for each object(lemon) B</h3>
+        <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (lemon)</h3>
         <video id="video4" autoplay muted loop playsinline width="100%">
           <source src="static/image/task3_2.mp4" type="video/mp4">
         </video>
@@ -94,11 +94,11 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
   </div>
 </div>
 
-<div class="box">
+<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery from conveyor belt A</h3>
+        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery (Case A)</h3>
         <video id="video5" autoplay muted loop playsinline width="100%">
           <source src="static/image/task4.mp4" type="video/mp4">
         </video>
@@ -106,7 +106,7 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
     </div>
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery from conveyor belt</h3>
+        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery (Case B)</h3>
         <video id="video6" autoplay muted loop playsinline width="100%">
           <source src="static/image/task4_2.mp4" type="video/mp4">
         </video>
@@ -115,11 +115,11 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
   </div>
 </div>
 
-<div class="box">
+<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 5: Organize the space near the power strip A</h3>
+        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip (Case A)</h3>
         <video id="video7" autoplay muted loop playsinline width="100%">
           <source src="static/image/task5.mp4" type="video/mp4">
         </video>
@@ -127,7 +127,7 @@ Task 4 and Task 5 was designed to verify the utility of thermal information in s
     </div>
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 5: Organize the space near the power strip B</h3>
+        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip (Case B)</h3>
         <video id="video8" autoplay muted loop playsinline width="100%">
           <source src="static/image/task5_2.mp4" type="video/mp4">
         </video>
