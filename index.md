@@ -36,9 +36,6 @@ In recent human-robot collaboration environments, there is a growing focus on in
       <video id="teaser1" autoplay muted loop playsinline height="100%">
         <source src="static/image/thermoact_video1.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
-        Demonstration of <b>ThermoAct</b> handling hot objects safely.
-      </h2>
     </div>
   </div>
 </section>
@@ -68,6 +65,8 @@ In recent human-robot collaboration environments, there is a growing focus on in
     </div>
   </div>
 </div>
+
+<hr> <h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
 
 <div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
@@ -115,7 +114,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery (Case A)</h3>
+        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
         <video id="video5" autoplay muted loop playsinline width="100%">
           <source src="static/image/task4.mp4" type="video/mp4">
         </video>
@@ -123,7 +122,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     </div>
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery (Case B)</h3>
+        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
         <video id="video6" autoplay muted loop playsinline width="100%">
           <source src="static/image/task4_2.mp4" type="video/mp4">
         </video>
@@ -136,7 +135,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip (Case A)</h3>
+        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
         <video id="video7" autoplay muted loop playsinline width="100%">
           <source src="static/image/task5.mp4" type="video/mp4">
         </video>
@@ -144,7 +143,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     </div>
     <div class="column">
       <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip (Case B)</h3>
+        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
         <video id="video8" autoplay muted loop playsinline width="100%">
           <source src="static/image/task5_2.mp4" type="video/mp4">
         </video>
@@ -152,7 +151,6 @@ In recent human-robot collaboration environments, there is a growing focus on in
     </div>
   </div>
 </div>
-
 ## Citation
 ```
 @article{turing1936computable,
