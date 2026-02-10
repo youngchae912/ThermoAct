@@ -44,7 +44,6 @@ In recent human-robot collaboration environments, there is a growing focus on in
         The ThermoAct framework proposed in this study consists of a Vision-Language Model (VLM) that performs reasoning and planning based on user commands and environmental information, and a Vision-Language-Action (VLA) module that executes robot control commands based on this plan. The VLM takes visual inputs, including thermal data, and a natural language instruction to generate a low-level action plan tailored to the situation. Subsequently, the VLA module controls the robot in real-time based on the decomposed plan and the corresponding inputs.
         </p>
       </div>
-
     </div>
   </div>
   </section>
