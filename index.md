@@ -37,7 +37,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
         loop 
         playsinline 
         style="width: 100%; height: auto; display: block; object-fit: cover;">
-        <source src="static/image/thermoact_video1.mp4" type="video/mp4">
+        <source src="/static/image/thermoact_video1.mp4" type="video/mp4">
       </video>
       <div class="content has-text-justified" style="margin-top: 10px;">
         <p>
@@ -47,7 +47,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
 
     </div>
   </div>
-</section>
+  </section>
 
 
 <section class="hero teaser" style="padding: 0;">
