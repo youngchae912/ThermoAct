@@ -1,20 +1,33 @@
 ---
+
 layout: project_page
+
 permalink: /
 
+
+
 title: "ThermoAct: Thermal-Aware Vision-Language-Action Models \\for Robotic Perception and Decision-Making"
+
 authors:
+
   - Young-Chae Son, Dae Kwan Ko, Yoon Ji Choi and Soo-Chul Lim*
+
 affiliations:
+
   - Dongguk University, Seoul 04620, South Korea
+
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
 video: https://www.youtube.com/results?search_query=turing+machine
+
 ---
+
+
 
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body" style="padding-bottom: 3rem;"> 
-      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #D9A7B6; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
+      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
         <video id="teaser1" autoplay muted loop playsinline width="100%" style="display: block;">
           <source src="static/image/thermoact_video.mp4" type="video/mp4">
         </video>
@@ -26,6 +39,8 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </div>
 </section>
 
+
+
 <div class="columns is-centered has-text-centered" style="margin-bottom: 2rem;">
   <div class="column is-four-fifths">
     <h2 class="title is-3">Abstract</h2>
@@ -34,11 +49,13 @@ video: https://www.youtube.com/results?search_query=turing+machine
     </div>
   </div>
 </div>
-
 <hr>
+
+
 
 ## Framework
 ![Framework](/static/image/Fig1.png)
+
 <div class="content has-text-justified" style="margin-top: 10px;">
   <p>
   The ThermoAct framework proposed in this study consists of a Vision-Language Model (VLM) that performs reasoning and planning based on user commands and environmental information, and a Vision-Language-Action (VLA) module that executes robot control commands based on this plan. The VLM takes visual inputs, including thermal data, and a natural language instruction to generate a low-level action plan tailored to the situation. Subsequently, the VLA module controls the robot in real-time based on the decomposed plan and the corresponding inputs.
@@ -71,12 +88,13 @@ video: https://www.youtube.com/results?search_query=turing+machine
     </div>
   </div>
 </div>
-
 <hr>
+
+
 
 <h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
 
-<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
+<div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
@@ -94,70 +112,4 @@ video: https://www.youtube.com/results?search_query=turing+machine
         </video>
       </div>
     </div>
-  </div>
-</div>
-
-<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
-  <div class="columns is-centered">
-    <div class="column">
-      <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (teabag)</h3>
-        <video id="video3" controls loop playsinline width="100%">
-          <source src="static/image/task3.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-    <div class="column">
-      <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (lemon)</h3>
-        <video id="video4" controls loop playsinline width="100%">
-          <source src="static/image/task3_2.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
-  <div class="columns is-centered">
-    <div class="column">
-      <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
-        <video id="video5" controls loop playsinline width="100%">
-          <source src="static/image/task4.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-    <div class="column">
-      <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
-        <video id="video6" controls loop playsinline width="100%">
-          <source src="static/image/task4_2.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="box" style="background-color: #EAC0CD; border: 1px solid #D9A7B6; margin-bottom: 2rem;">
-  <div class="columns is-centered">
-    <div class="column">
-      <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
-        <video id="video7" controls loop playsinline width="100%">
-          <source src="static/image/task5.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-    <div class="column">
-      <div class="content">
-        <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
-        <video id="video8" controls loop playsinline width="100%">
-          <source src="static/image/task5_2.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-  </div>
-</div>
-
 ## Citation
