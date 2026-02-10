@@ -11,18 +11,11 @@ paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 ---
 
-<div class="columns is-centered has-text-centered" style="margin-bottom: 0;">
-  <div class="column is-four-fifths">
-    <h2 class="title is-3">Abstract</h2>
-    <div class="content has-text-justified">
-      In recent human-robot collaboration environments, there is a growing focus on integrating diverse sensor data beyond visual information to enable safer and more intelligent task execution. Although thermal data can be crucial for enhancing robot safety and operational efficiency, its integration has been relatively overlooked in prior research. This paper proposes a novel Vision-Language-Action (VLA) framework that incorporates thermal information for robot task execution. The proposed system leverages a Vision-Language Model (VLM) as a high-level planner to interpret complex natural language commands and decompose them into simpler sub-tasks. This approach facilitates efficient data collection and robust reasoning for complex operations. Unlike conventional methods that rely solely on visual data, our approach integrates thermal information, enabling the robot to perceive physical properties and proactively ensure environmental safety. Experimental results from real-world task scenarios validate the feasibility of our proposed framework, suggesting its potential to enhance task success rates and safety compared to existing vision-based systems.
-    </div>
-  </div>
-</div>
-
 <section class="hero teaser">
   <div class="container is-max-desktop">
-    <div class="hero-body" style="padding-top: 0;"> <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> <video id="teaser1" autoplay muted loop playsinline width="100%" style="display: block;">
+    <div class="hero-body" style="padding-bottom: 3rem;"> 
+      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
+        <video id="teaser1" autoplay muted loop playsinline width="100%" style="display: block;">
           <source src="static/image/thermoact_video.mp4" type="video/mp4">
         </video>
       </div>
@@ -33,10 +26,16 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </div>
 </section>
 
+<div class="columns is-centered has-text-centered" style="margin-bottom: 2rem;">
+  <div class="column is-four-fifths">
+    <h2 class="title is-3">Abstract</h2>
+    <div class="content has-text-justified">
+      In recent human-robot collaboration environments, there is a growing focus on integrating diverse sensor data beyond visual information to enable safer and more intelligent task execution. Although thermal data can be crucial for enhancing robot safety and operational efficiency, its integration has been relatively overlooked in prior research. This paper proposes a novel Vision-Language-Action (VLA) framework that incorporates thermal information for robot task execution. The proposed system leverages a Vision-Language Model (VLM) as a high-level planner to interpret complex natural language commands and decompose them into simpler sub-tasks. This approach facilitates efficient data collection and robust reasoning for complex operations. Unlike conventional methods that rely solely on visual data, our approach integrates thermal information, enabling the robot to perceive physical properties and proactively ensure environmental safety. Experimental results from real-world task scenarios validate the feasibility of our proposed framework, suggesting its potential to enhance task success rates and safety compared to existing vision-based systems.
+    </div>
+  </div>
+</div>
+
 <hr>
-
----
-
 
 ## Framework
 ![Framework](/static/image/Fig1.png)
@@ -74,6 +73,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
 </div>
 
 <hr>
+
 <h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
 
 <div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
@@ -159,15 +159,5 @@ video: https://www.youtube.com/results?search_query=turing+machine
     </div>
   </div>
 </div>
+
 ## Citation
-```
-@article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
-}
-```
