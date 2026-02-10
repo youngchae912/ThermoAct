@@ -44,7 +44,11 @@ In recent human-robot collaboration environments, there is a growing focus on in
 </section>
 
 <p class="has-text-centered">
-  Task2: Give me a cold Coke
+  All tasks were designed to require the successful completion of not only temperature-aware sub-tasks but also everyday sub-tasks (e.g., clearing unused cables, placing an apple on a plate). 
+The sub-tasks decomposed by the VLM Planner follow a standardized format, aligning with protocols used in recent VLM-based robotic planning.
+
+Task 1 to Task 3 were designed to evaluate whether the robot could act more intelligently by utilizing thermal information in daily scenarios, such as handing over a cup of warm water or giving a cold can of soda. 
+Task 4 and Task 5 was designed to verify the utility of thermal information in safety-related situations, such as picking up an overheated battery, turning off a hot hair straightener, and organizing the nearby power strip.
 </p>
 <br>
 
