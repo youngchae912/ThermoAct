@@ -1,33 +1,20 @@
 ---
-
 layout: project_page
-
 permalink: /
 
-
-
 title: "ThermoAct: Thermal-Aware Vision-Language-Action Models \\for Robotic Perception and Decision-Making"
-
 authors:
-
   - Young-Chae Son, Dae Kwan Ko, Yoon Ji Choi and Soo-Chul Lim*
-
 affiliations:
-
   - Dongguk University, Seoul 04620, South Korea
-
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-
 video: https://www.youtube.com/results?search_query=turing+machine
-
 ---
-
-
 
 <section class="hero teaser">
   <div class="container is-max-desktop">
-    <div class="hero-body" style="padding-bottom: 3rem;"> 
-      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
+    <div class="hero-body" style="padding-bottom: 3rem;">
+      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <video id="teaser1" autoplay muted loop playsinline width="100%" style="display: block;">
           <source src="static/image/thermoact_video.mp4" type="video/mp4">
         </video>
@@ -39,8 +26,6 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </div>
 </section>
 
-
-
 <div class="columns is-centered has-text-centered" style="margin-bottom: 2rem;">
   <div class="column is-four-fifths">
     <h2 class="title is-3">Abstract</h2>
@@ -49,11 +34,11 @@ video: https://www.youtube.com/results?search_query=turing+machine
     </div>
   </div>
 </div>
+
 <hr>
 
-
-
 ## Framework
+
 ![Framework](/static/image/Fig1.png)
 
 <div class="content has-text-justified" style="margin-top: 10px;">
@@ -62,7 +47,10 @@ video: https://www.youtube.com/results?search_query=turing+machine
   </p>
 </div>
 
+<br>
+
 ## Experiment
+
 <div class="container is-max-desktop">
   <div class="columns is-vcentered">
     <div class="column is-half">
@@ -176,6 +164,8 @@ video: https://www.youtube.com/results?search_query=turing+machine
     </div>
   </div>
 </div>
+
+<br>
 
 ## Citation
 ```
