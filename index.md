@@ -7,8 +7,8 @@ authors:
   - Young-Chae Son, Dae Kwan Ko, Yoon Ji Choi and Soo-Chul Lim*
 affiliations:
   - Dongguk University, Seoul 04620, South Korea
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
+%paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+%video: https://www.youtube.com/results?search_query=turing+machine
 ---
 
 <div class="is-size-6 has-text-centered" style="margin-top: -2.5rem; margin-bottom: 0.5rem; color: #555;">
