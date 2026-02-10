@@ -10,7 +10,9 @@ affiliations:
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 ---
-
+<div class="is-size-7 has-text-centered" style="margin-top: -1.5rem; margin-bottom: 2rem;">
+  * Corresponding Author
+</div>
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body" style="padding-bottom: 3rem;">
