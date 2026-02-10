@@ -27,7 +27,7 @@ video: https://www.youtube.com/results?search_query=turing+machine
         </video>
       </div>
       <h2 class="subtitle has-text-centered mt-3">
-        <strong>Demonstration of ThermoAct handling hot objects safely.</strong>
+        <strong>Temperature-Aware Framework for Robotic Perception and Decision-Making</strong>
       </h2>
     </div>
   </div>
