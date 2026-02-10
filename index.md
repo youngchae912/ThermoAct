@@ -9,8 +9,6 @@ affiliations:
   - Dongguk University, Seoul 04620, South Korea
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -26,45 +24,34 @@ In recent human-robot collaboration environments, there is a growing focus on in
 ---
 ## Framework
 ![Framework](/static/image/Fig1.png)
-
-<section class="hero teaser" style="padding: 0;">
-  <div class="container is-max-desktop" style="padding: 0;">
-    <div class="hero-body" style="padding: 0; position: relative;">
-      <video 
-        id="teaser1" 
-        autoplay 
-        muted 
-        loop 
-        playsinline 
-        style="width: 100%; height: auto; display: block; object-fit: cover;">
-        <source src="/static/image/thermoact_video1.mp4" type="video/mp4">
-      </video>
       <div class="content has-text-justified" style="margin-top: 10px;">
         <p>
         The ThermoAct framework proposed in this study consists of a Vision-Language Model (VLM) that performs reasoning and planning based on user commands and environmental information, and a Vision-Language-Action (VLA) module that executes robot control commands based on this plan. The VLM takes visual inputs, including thermal data, and a natural language instruction to generate a low-level action plan tailored to the situation. Subsequently, the VLA module controls the robot in real-time based on the decomposed plan and the corresponding inputs.
         </p>
       </div>
-    </div>
-  </div>
-  </section>
-
 
 <section class="hero teaser" style="padding: 0;">
-  <div class="container is-max-desktop" style="padding: 0;">
-    <div class="hero-body" style="padding: 0; position: relative;">
-      <video 
-        id="teaser" 
-        autoplay 
-        muted 
-        loop 
-        playsinline 
-        style="width: 100%; height: auto; display: block; object-fit: cover;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser1" autoplay muted loop playsinline height="100%">
+        <source src="static/image/thermoact_video1.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        Demonstration of <b>ThermoAct</b> handling hot objects safely.
+      </h2>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser" style="padding: 0;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser2" autoplay muted loop playsinline height="100%">
         <source src="static/image/thermoact_video2.mp4" type="video/mp4">
       </video>
     </div>
   </div>
 </section>
-
 
 ## Citation
 ```
