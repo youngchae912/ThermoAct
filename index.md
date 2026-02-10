@@ -66,14 +66,15 @@ In recent human-robot collaboration environments, there is a growing focus on in
   </div>
 </div>
 
-<hr> <h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
+<hr>
+<h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
 
 <div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke (w/ cold coke)</h3>
-        <video id="video1" autoplay muted loop playsinline width="100%">
+        <video id="video1" controls loop playsinline width="100%">
           <source src="static/image/task2.mp4" type="video/mp4">
         </video>
       </div>
@@ -81,7 +82,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 2: Give me a cold coke (w/o cold coke)</h3>
-        <video id="video2" autoplay muted loop playsinline width="100%">
+        <video id="video2" controls loop playsinline width="100%">
           <source src="static/image/task2_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -94,7 +95,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (teabag)</h3>
-        <video id="video3" autoplay muted loop playsinline width="100%">
+        <video id="video3" controls loop playsinline width="100%">
           <source src="static/image/task3.mp4" type="video/mp4">
         </video>
       </div>
@@ -102,7 +103,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 3: Select the appropriate cup (lemon)</h3>
-        <video id="video4" autoplay muted loop playsinline width="100%">
+        <video id="video4" controls loop playsinline width="100%">
           <source src="static/image/task3_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -115,7 +116,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
-        <video id="video5" autoplay muted loop playsinline width="100%">
+        <video id="video5" controls loop playsinline width="100%">
           <source src="static/image/task4.mp4" type="video/mp4">
         </video>
       </div>
@@ -123,7 +124,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 4: Pick up overheated battery</h3>
-        <video id="video6" autoplay muted loop playsinline width="100%">
+        <video id="video6" controls loop playsinline width="100%">
           <source src="static/image/task4_2.mp4" type="video/mp4">
         </video>
       </div>
@@ -136,7 +137,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
-        <video id="video7" autoplay muted loop playsinline width="100%">
+        <video id="video7" controls loop playsinline width="100%">
           <source src="static/image/task5.mp4" type="video/mp4">
         </video>
       </div>
@@ -144,7 +145,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
     <div class="column">
       <div class="content">
         <h3 class="title is-5 has-text-centered">Task 5: Organize space near power strip</h3>
-        <video id="video8" autoplay muted loop playsinline width="100%">
+        <video id="video8" controls loop playsinline width="100%">
           <source src="static/image/task5_2.mp4" type="video/mp4">
         </video>
       </div>
