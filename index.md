@@ -43,14 +43,31 @@ In recent human-robot collaboration environments, there is a growing focus on in
   </div>
 </section>
 
-<p class="has-text-centered">
-  All tasks were designed to require the successful completion of not only temperature-aware sub-tasks but also everyday sub-tasks (e.g., clearing unused cables, placing an apple on a plate). 
-The sub-tasks decomposed by the VLM Planner follow a standardized format, aligning with protocols used in recent VLM-based robotic planning.
-
-Task 1 to Task 3 were designed to evaluate whether the robot could act more intelligently by utilizing thermal information in daily scenarios, such as handing over a cup of warm water or giving a cold can of soda. 
-Task 4 and Task 5 was designed to verify the utility of thermal information in safety-related situations, such as picking up an overheated battery, turning off a hot hair straightener, and organizing the nearby power strip.
-</p>
-<br>
+<div class="container is-max-desktop">
+  <div class="columns is-vcentered">
+    <div class="column is-half">
+      <div class="content has-text-justified">
+        <p>
+          All tasks were designed to require the successful completion of not only temperature-aware sub-tasks but also everyday sub-tasks (e.g., clearing unused cables, placing an apple on a plate). The sub-tasks decomposed by the VLM Planner follow a standardized format, aligning with protocols used in recent VLM-based robotic planning.
+        </p>
+        <p>
+          Task 1 to Task 3 were designed to evaluate whether the robot could act more intelligently by utilizing thermal information in daily scenarios, such as handing over a cup of warm water or giving a cold can of soda. 
+        </p>
+        <p>
+          Task 4 and Task 5 was designed to verify the utility of thermal information in safety-related situations, such as picking up an overheated battery, turning off a hot hair straightener, and organizing the nearby power strip.
+        </p>
+      </div>
+    </div>
+    <div class="column is-half">
+      <figure class="image">
+        <img src="static/image/Fig3.png" alt="Experimental Results and Task Visualization">
+        <p class="has-text-centered is-size-7 mt-2">
+          <strong>Figure 3:</strong> Task design and VLM planning protocol.
+        </p>
+      </figure>
+    </div>
+  </div>
+</div>
 
 <div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
