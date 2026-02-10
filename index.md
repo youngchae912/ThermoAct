@@ -34,7 +34,7 @@ In recent human-robot collaboration environments, there is a growing focus on in
   <div class="container is-max-desktop">
     <div class="hero-body">
       <video id="teaser1" autoplay muted loop playsinline height="100%">
-        <source src="static/image/thermoact_video1.mp4" type="video/mp4">
+        <source src="static/image/thermoact_video.mp4" type="video/mp4">
       </video>
     </div>
   </div>
