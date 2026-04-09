@@ -13,7 +13,20 @@ affiliations:
 <div class="is-size-6 has-text-centered" style="margin-top: -2.5rem; margin-bottom: 0.5rem; color: #555;">
   * Corresponding Author
 </div>
+<div class="has-text-centered" style="margin-top: 0.8rem; margin-bottom: 1rem;">
+  <p class="is-size-5" style="color: #AE3A5D; font-weight: 600;">
+    Our research has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026.
+  </p>
+</div>
 
+<div class="buttons is-centered" style="margin-bottom: 2rem;">
+  <a class="button is-dark is-medium" href="https://arxiv.org/abs/2603.25044" target="_blank" rel="noopener noreferrer">
+    Paper
+  </a>
+  <a class="button is-link is-medium" href="https://youtu.be/lFZC3nIPNDs?si=I6Qr8zMu_hVOdbil" target="_blank" rel="noopener noreferrer">
+    Video
+  </a>
+</div>
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body" style="padding-top: 0; padding-bottom: 2rem;"> 
@@ -170,4 +183,26 @@ affiliations:
 
 <br>
 
+<hr>
+
+<div class="has-text-centered" style="margin-top: 2rem; margin-bottom: 1rem;">
+  <p class="is-size-5" style="color: #AE3A5D;">
+    <strong>Our research has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026.</strong>
+  </p>
+</div>
+
 ## Citation
+
+<div class="box" style="background-color: #fafafa; border: 1px solid #e8e8e8;">
+  <pre style="white-space: pre-wrap; word-break: break-word; font-size: 0.95rem;"><code>@ARTICLE{11456510,
+  author={Son, Young-Chae and Ko, Dae-Kwan and Choi, Yoon-Ji and Lim, Soo-Chul},
+  journal={IEEE Robotics and Automation Letters},
+  title={ThermoAct: Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making},
+  year={2026},
+  volume={11},
+  number={5},
+  pages={6106-6113},
+  keywords={Robots;Robot sensing systems;Cameras;Robot vision systems;Visualization;Cognition;Planning;Grippers;Wrist;Training;AI-Enabled Robotics;AI-based methods;task planning},
+  doi={10.1109/LRA.2026.3678130}}
+</code></pre>
+</div>
