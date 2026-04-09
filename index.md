@@ -7,8 +7,14 @@ authors:
   - Young-Chae Son, Dae Kwan Ko, Yoon Ji Choi and Soo-Chul Lim*
 affiliations:
   - Dongguk University, Seoul 04620, South Korea
-
 ---
+
+<style>
+h1.title {
+  font-size: 2rem !important;
+  line-height: 1.3;
+}
+</style>
 <div class="is-size-6 has-text-centered" style="margin-top: -5rem; margin-bottom: 0.5rem; color: #555;">
   * Corresponding Author
 </div>
