@@ -9,7 +9,6 @@ affiliations:
   - Dongguk University, Seoul 04620, South Korea
 
 ---
-
 <div class="is-size-6 has-text-centered" style="margin-top: -2.5rem; margin-bottom: 0.5rem; color: #555;">
   * Corresponding Author
 </div>
@@ -19,7 +18,6 @@ affiliations:
     Our research has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026.
   </p>
 </div>
-
 <div class="has-text-centered" style="margin-bottom: 2rem;">
   <a href="https://arxiv.org/abs/2603.25044" target="_blank" rel="noopener noreferrer"
      style="display: inline-block; margin: 0 0.4rem 0.6rem 0.4rem; padding: 0.75rem 1.6rem; background-color: #363636; color: white; border-radius: 999px; text-decoration: none; font-weight: 600; font-size: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
