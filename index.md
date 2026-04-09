@@ -13,24 +13,29 @@ affiliations:
 <div class="is-size-6 has-text-centered" style="margin-top: -2.5rem; margin-bottom: 0.5rem; color: #555;">
   * Corresponding Author
 </div>
+
 <div class="has-text-centered" style="margin-top: 0.8rem; margin-bottom: 1rem;">
-  <p class="is-size-5" style="color: #AE3A5D; font-weight: 600;">
+  <p class="is-size-5" style="font-weight: 600;">
     Our research has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026.
   </p>
 </div>
 
-<div class="buttons is-centered" style="margin-bottom: 2rem;">
-  <a class="button is-dark is-medium" href="https://arxiv.org/abs/2603.25044" target="_blank" rel="noopener noreferrer">
+<div class="has-text-centered" style="margin-bottom: 2rem;">
+  <a href="https://arxiv.org/abs/2603.25044" target="_blank" rel="noopener noreferrer"
+     style="display: inline-block; margin: 0 0.4rem 0.6rem 0.4rem; padding: 0.75rem 1.6rem; background-color: #363636; color: white; border-radius: 999px; text-decoration: none; font-weight: 600; font-size: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
     Paper
   </a>
-  <a class="button is-link is-medium" href="https://youtu.be/lFZC3nIPNDs?si=I6Qr8zMu_hVOdbil" target="_blank" rel="noopener noreferrer">
+
+  <a href="https://youtu.be/lFZC3nIPNDs?si=I6Qr8zMu_hVOdbil" target="_blank" rel="noopener noreferrer"
+     style="display: inline-block; margin: 0 0.4rem 0.6rem 0.4rem; padding: 0.75rem 1.6rem; background-color: #3273dc; color: white; border-radius: 999px; text-decoration: none; font-weight: 600; font-size: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.12);">
     Video
   </a>
 </div>
+
 <section class="hero teaser">
   <div class="container is-max-desktop">
-    <div class="hero-body" style="padding-top: 0; padding-bottom: 2rem;"> 
-      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> 
+    <div class="hero-body" style="padding-top: 0; padding-bottom: 2rem;">
+      <div style="border-radius: 15px; overflow: hidden; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <video id="teaser1" autoplay muted loop playsinline width="100%" style="display: block;">
           <source src="static/image/thermoact_video.mp4" type="video/mp4">
         </video>
@@ -59,7 +64,7 @@ affiliations:
 
 <div class="content has-text-justified" style="margin-top: 10px;">
   <p>
-  The ThermoAct framework proposed in this study consists of a Vision-Language Model (VLM) that performs reasoning and planning based on user commands and environmental information, and a Vision-Language-Action (VLA) module that executes robot control commands based on this plan. The VLM takes visual inputs, including thermal data, and a natural language instruction to generate a low-level action plan tailored to the situation. Subsequently, the VLA module controls the robot in real-time based on the decomposed plan and the corresponding inputs.
+    The ThermoAct framework proposed in this study consists of a Vision-Language Model (VLM) that performs reasoning and planning based on user commands and environmental information, and a Vision-Language-Action (VLA) module that executes robot control commands based on this plan. The VLM takes visual inputs, including thermal data, and a natural language instruction to generate a low-level action plan tailored to the situation. Subsequently, the VLA module controls the robot in real time based on the decomposed plan and the corresponding inputs.
   </p>
 </div>
 
@@ -72,13 +77,13 @@ affiliations:
     <div class="column is-half">
       <div class="content has-text-justified">
         <p>
-          All tasks were designed to require the successful completion of not only temperature-aware sub-tasks but also everyday sub-tasks (e.g., clearing unused cables, placing an apple on a plate). The sub-tasks decomposed by the VLM Planner follow a standardized format, aligning with protocols used in recent VLM-based robotic planning.
+          All tasks were designed to require the successful completion of not only temperature-aware sub-tasks but also everyday sub-tasks (e.g., clearing unused cables and placing an apple on a plate). The sub-tasks decomposed by the VLM Planner follow a standardized format, aligning with protocols used in recent VLM-based robotic planning.
         </p>
         <p>
-          Task 1 to Task 3 were designed to evaluate whether the robot could act more intelligently by utilizing thermal information in daily scenarios, such as handing over a cup of warm water or giving a cold can of soda. 
+          Tasks 1 to 3 were designed to evaluate whether the robot could act more intelligently by utilizing thermal information in daily scenarios, such as handing over a cup of warm water or giving a cold can of soda.
         </p>
         <p>
-          Task 4 and Task 5 was designed to verify the utility of thermal information in safety-related situations, such as picking up an overheated battery, turning off a hot hair straightener, and organizing the nearby power strip.
+          Tasks 4 and 5 were designed to verify the utility of thermal information in safety-related situations, such as picking up an overheated battery, turning off a hot hair straightener, and organizing the nearby power strip.
         </p>
       </div>
     </div>
@@ -95,7 +100,7 @@ affiliations:
 
 <hr>
 
-<h2 class="title is-3 has-text-centered mt-6 mb-5">Experiment in Real-World</h2>
+<h2 class="title is-3 has-text-centered mt-6 mb-5">Real-World Experiments</h2>
 
 <div class="box" style="background-color: #f5f5f5; border: 1px solid #e8e8e8; margin-bottom: 2rem;">
   <div class="columns is-centered">
@@ -184,12 +189,6 @@ affiliations:
 <br>
 
 <hr>
-
-<div class="has-text-centered" style="margin-top: 2rem; margin-bottom: 1rem;">
-  <p class="is-size-5" style="color: #AE3A5D;">
-    <strong>Our research has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026.</strong>
-  </p>
-</div>
 
 ## Citation
 
