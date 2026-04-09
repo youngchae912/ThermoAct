@@ -9,10 +9,9 @@ affiliations:
   - Dongguk University, Seoul 04620, South Korea
 
 ---
-<div class="is-size-6 has-text-centered" style="margin-top: -2.5rem; margin-bottom: 0.5rem; color: #555;">
+<div class="is-size-6 has-text-centered" style="margin-top: -4.5rem; margin-bottom: 0.5rem; color: #555;">
   * Corresponding Author
 </div>
-
 <div class="has-text-centered" style="margin-top: 0.8rem; margin-bottom: 1rem;">
   <p class="is-size-5" style="font-weight: 600;">
     Our research has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026.
