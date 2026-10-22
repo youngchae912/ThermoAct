@@ -4,7 +4,7 @@ permalink: /
 
 title: "ThermoAct: Thermal-Aware Vision-Language-Action Models<br>for Robotic Perception and Decision-Making"
 authors:
-  - 'Young-Chae Son†, <a href="https://kodaekwan.github.io/">Dae Kwan Ko</a>†, <a href="https://choiyoonji.github.io/">Yoon Ji Choi</a> and Soo-Chul Lim*'
+  - '<a href="https://youngchae912.github.io/">Young-Chae Son</a>†, <a href="https://kodaekwan.github.io/">Dae Kwan Ko</a>†, <a href="https://choiyoonji.github.io/">Yoon Ji Choi</a> and Soo-Chul Lim*'
 affiliations:
   - Dongguk University, Seoul 04620, South Korea
 ---
